@@ -2,7 +2,9 @@ Weather My Child's Way +RTP app - Web version
 =========================================
 The [Weather My Child's Way +RTP](https://weathermychildsway.rocks/) app is powered by Sequencing.com's [Sequencing.com's](https://sequencing.com/) [Real Time Personalization (RTP)](https://sequencing.com/developer-documentation/what-is-real-time-personalization-rtp/) technology. 
 
-The app empowers parents with a daily, genetically tailored forecast for optimizing the health of their child. The genetically tailored forecasts are implemented using Sequencing.com's API (for real-time personalization based on genetic analysis) and Weather Underground's API (for weather).
+The app empowers parents with a daily, genetically tailored forecast for optimizing the health of their child. 
+
+The genetically tailored forecasts are implemented using Sequencing.com's API (for real-time personalization based on genetic analysis) and Weather Underground's API (for weather).
 
 Contents
 =========================================
