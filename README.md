@@ -1,6 +1,8 @@
 Weather My Child's Way +RTP app - Web version
 =========================================
-The [Weather My Child's Way +RTP](https://weathermychildsway.rocks/) app is powered by Sequencing.com's [Sequencing.com's](https://sequencing.com/) [Real Time Personalization (RTP)](https://sequencing.com/developer-documentation/what-is-real-time-personalization-rtp/) technology. The app empowers parents with a daily, genetically tailored forecast for optimizing the health of their child. 
+The [Weather My Child's Way +RTP](https://weathermychildsway.rocks/) app is powered by Sequencing.com's [Sequencing.com's](https://sequencing.com/) [Real Time Personalization (RTP)](https://sequencing.com/developer-documentation/what-is-real-time-personalization-rtp/) technology. 
+
+The app empowers parents with a daily, genetically tailored forecast for optimizing the health of their child. 
 
 Contents
 =========================================
@@ -36,11 +38,11 @@ Information flow
 1. App-user validates using Sign in with Sequencing.com.
 2. If successful, app either auto-detects geographic location or user can manually input location. The app works for most locations throughout the world. 
 3. Next, user selects a genetic file for analysis. Sample files are also provided. File selector code is open source and available here: https://github.com/SequencingDOTcom/File-Selector
-4. The app will then be personalized to the app user's genes by combining an analysis of the app user's genes with an analysis of the current weather forecast.
+4. The app will then be personalized to the genes of the child of the app user by combining an analysis of the child's genes with an analysis of the current weather forecast.
 * Two [App Chains](https://sequencing.com/app-chains) that use Sequencing.com's API are utilized for this app: 
 ** Chain10 (Predisposition to skin cancer)
 ** Chain88 (Vitamin D supplements likely to protect health). will then process the user’s genes and combine it with real-time weather data. 
-* Forecast screen contains both the weather forecast and the user's genetically tailored forecast, which is personalized insight to help the user optimize their health and wellness.
+* Forecast screen contains both the weather forecast and the genetically tailored forecast, which is personalized insight to help the user optimize the health and wellness of his or her child.
 * All analysis occurs in real-time.
 
 Project
