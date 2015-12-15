@@ -2,16 +2,8 @@ Weather My Child's Way +RTP app - Web version
 =========================================
 The [Weather My Child's Way +RTP](https://weathermychildsway.rocks/) app is powered by Sequencing.com's [Sequencing.com's](https://sequencing.com/) [Real Time Personalization (RTP)](https://sequencing.com/developer-documentation/what-is-real-time-personalization-rtp/) technology. The app empowers parents with a daily, genetically tailored forecast for optimizing the health of their child. 
 
-Editions
+Contents
 =========================================
-Weather My Way +RTP 
-* Repo = https://github.com/SequencingDOTcom/Weather-My-Way-RTP-app
-* App = https://weathermyway.rocks
-
-Weather My Child's Way +RTP
-* Repo = This repo
-* App = https://weathermychildsway.rocks
-
 * Editions
 * Introduction
 * Information flow
@@ -22,6 +14,16 @@ Weather My Child's Way +RTP
 * Troubleshooting
 * Maintainers
 * Contribute
+
+Editions
+=========================================
+Weather My Way +RTP 
+* Repo = https://github.com/SequencingDOTcom/Weather-My-Way-RTP-app
+* App = https://weathermyway.rocks
+
+Weather My Child's Way +RTP
+* Repo = This repo
+* App = https://weathermychildsway.rocks
 
 Introduction
 =========================================
