@@ -35,13 +35,14 @@ The [Weather My Child's Way +RTP app](https://weathermychildsway.rocks/) codebas
 
 Information flow
 ========================================
-1. App-user validates using Sign in with Sequencing.com.
+1. App-user validates using Sign in with Sequencing.com. OAuth2 code is open source and available here: https://github.com/SequencingDOTcom/oAuth2-code-and-demo
 2. If successful, app either auto-detects geographic location or user can manually input location. The app works for most locations throughout the world. 
 3. Next, user selects a genetic file for analysis. Sample files are also provided. File selector code is open source and available here: https://github.com/SequencingDOTcom/File-Selector
 4. The app will then be personalized to the genes of the child of the app user by combining an analysis of the child's genes with an analysis of the current weather forecast.
+
 * Two [App Chains](https://sequencing.com/app-chains) that use Sequencing.com's API are utilized for this app: 
-** Chain10 (Predisposition to skin cancer)
-** Chain88 (Vitamin D supplements likely to protect health). will then process the user’s genes and combine it with real-time weather data. 
+ * Chain10 (Predisposition to skin cancer)
+ * Chain88 (Vitamin D supplements likely to protect health).
 * Forecast screen contains both the weather forecast and the genetically tailored forecast, which is personalized insight to help the user optimize the health and wellness of his or her child.
 * All analysis occurs in real-time.
 
